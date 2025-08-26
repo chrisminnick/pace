@@ -1,6 +1,10 @@
 # PACE (Prompt-Augmented Coding Environment)
 
-PACE is an innovative code editor that combines the power of CodeMirror with AI-driven prompt templates. It allows developers to create custom prompt templates and apply them to selected code snippets, enhancing productivity through AI assistance.
+PACE is a code editor that combines the power of CodeMirror with AI-driven prompt templates. It allows developers to create custom prompt templates and apply them to selected code snippets.
+
+## About This Project
+
+PACE was created by Chris Minnick as a demo project for his book, "A Developer's Guide to Integrating Generative AI into Applications" (Wiley Publishing, 2026, ISBN: 9781394373130).
 
 ## Features
 
@@ -59,6 +63,12 @@ PACE is an innovative code editor that combines the power of CodeMirror with AI-
 - **Backend**: Node.js with Express
 - **AI Integration**: OpenAI API (configurable for other providers)
 
-## License
+## 📄 Copyright
 
-MIT License
+© 2025 Chris Minnick. All rights reserved.
+
+This software and associated documentation files (the "Software") are protected by copyright and other intellectual property laws. The Software is licensed, not sold.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
